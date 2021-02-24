@@ -1,3 +1,3 @@
-# Weather A
+# Weather App
+This weather app is very efficient in assisting for the information about the climate of a person's surroundings.
  
-![weather app js](https://user-images.githubusercontent.com/65046391/82387841-fa32e000-9a2f-11ea-9bce-2a857bce5247.jpg)
